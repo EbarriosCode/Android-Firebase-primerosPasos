@@ -6,4 +6,5 @@ package com.code.ebarrios.androidfirebase.Objetos;
 
 public class FirebaseReferencias {
     final public static String TUTORIAL_REFERENCIA = "Tutorial";
+    final public static String CARRO_REFERENCIA = "Carro";
 }
